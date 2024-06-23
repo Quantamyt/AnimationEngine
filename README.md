@@ -1,8 +1,10 @@
-# Animation Engine Library
+# Animation Engine
 
 [![](https://jitpack.io/v/Quantamyt/AnimationEngine.svg)](https://jitpack.io/#Quantamyt/AnimationEngine)
 
-This Java library provides utilities for managing animations with customizable easing functions.
+*powered by JitPack!*
+
+A simple Java animation library that provides utilities for managing animations with customizable easing functions.
 
 ## Installation
 
