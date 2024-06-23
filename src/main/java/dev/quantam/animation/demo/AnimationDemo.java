@@ -1,6 +1,6 @@
-package dev.quantam.demo;
+package dev.quantam.animation.demo;
 
-import dev.quantam.easings.EaseFunctions;
+import dev.quantam.animation.easings.EaseFunctions;
 
 import javax.swing.*;
 import java.awt.*;
@@ -13,7 +13,7 @@ import java.awt.event.ActionListener;
  * to animate various properties of a shape.
  *
  * @author quantam
- * @since 22-06-2024
+ * @since v1.0
  */
 public class AnimationDemo extends JPanel implements ActionListener {
 

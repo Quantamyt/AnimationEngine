@@ -64,7 +64,7 @@ you can replace `master-SNAPSHOT` with the version tag you want to use (e.g., `f
 ### AnimationEngine
 
 ```java
-import dev.quantam.AnimationEngine;
+import dev.quantam.animation.AnimationEngine;
 import java.util.function.Consumer;
 import java.util.function.Function;
 
@@ -97,8 +97,8 @@ if (engine.isRunning()) {
 ### AnimationManager
 
 ```java
-import dev.quantam.AnimationEngine;
-import dev.quantam.AnimationManager;
+import dev.quantam.animation.AnimationEngine;
+import dev.quantam.animation.AnimationManager;
 
 // Create an AnimationManager
 
@@ -130,7 +130,7 @@ manager.update(deltaTime);
 ### EaseFunctions
 
 ```java
-import dev.quantam.easings.EaseFunctions;
+import easings.dev.quantam.animation.EaseFunctions;
 
 // Example usage of easing functions
 float linearValue = EaseFunctions.linear(0.5f);

@@ -1,4 +1,4 @@
-package dev.quantam;
+package dev.quantam.animation;
 
 import java.util.function.Consumer;
 import java.util.function.Function;
@@ -8,7 +8,7 @@ import java.util.function.Function;
  * easing function, and update callback.
  *
  * @author quantam
- * @since 23-06-2024
+ * @since v1.0
  */
 public class AnimationEngine {
 

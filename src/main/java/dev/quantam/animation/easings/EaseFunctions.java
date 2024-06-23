@@ -1,10 +1,10 @@
-package dev.quantam.easings;
+package dev.quantam.animation.easings;
 
 /**
  * A collection of easing functions for animations.
  *
  * @author quantam
- * @since 23-06-2024
+ * @since v1.0
  */
 public class EaseFunctions {
 

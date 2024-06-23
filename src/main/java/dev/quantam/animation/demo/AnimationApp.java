@@ -1,6 +1,6 @@
-package dev.quantam.demo;
+package dev.quantam.animation.demo;
 
-import dev.quantam.easings.EaseFunctions;
+import dev.quantam.animation.easings.EaseFunctions;
 
 import javax.swing.*;
 import java.awt.*;
@@ -14,7 +14,7 @@ import java.awt.event.ActionListener;
  * with progress displayed in the center, along with x, y position counters and FPS counter.
  *
  * @author quantam
- * @since 23-06-2024
+ * @since v1.0
  */
 public class AnimationApp extends JPanel implements ActionListener {
 

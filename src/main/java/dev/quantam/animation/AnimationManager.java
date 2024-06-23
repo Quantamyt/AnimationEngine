@@ -1,4 +1,4 @@
-package dev.quantam;
+package dev.quantam.animation;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,7 @@ import java.util.List;
  * A manager class that handles multiple animations.
  *
  * @author quantam
- * @since 23-06-2024
+ * @since v1.0
  */
 public class AnimationManager {
 
